@@ -2,13 +2,13 @@
 
 ## Try it out: https://coverlettercreator-hfoaxkajufwb3kvtjs5m6p.streamlit.app/
 
-### AI-powered CoverLetterCreator: Your personalized open-source tool for effortlessly crafting tailored cover letters, optimizing your job application success.
+### AI-powered CoverLetterCreator: Your personalized tool for effortlessly crafting tailored cover letters, optimizing your job application success.
 
 Are you searching for a new job? If a job post provides a "Upload Cover Letter" option, and you leave it blank, you are minimizing your chances of getting a callback.
 
 You want to write a custom cover letter for every job posting you reply to, that properly lines up your experience and skills with the duties and requirements listed in the job description. But if you are applying to several jobs a day, it can take a LOT of time to write all those cover letters.
 
-### That's where the CoverLetterCreator comes in: It uses AI to write amazing cover letters in seconds!
+### That's where the CoverLetterCreator comes in: Use AI to write amazing cover letters in seconds!
 
 custom cover letter for each job post
 
