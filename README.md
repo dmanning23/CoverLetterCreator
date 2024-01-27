@@ -10,8 +10,6 @@ You want to write a custom cover letter for every job posting you reply to, that
 
 ### That's where the CoverLetterCreator comes in: Use AI to write amazing cover letters in seconds!
 
-custom cover letter for each job post
-
 Step 1: Copy and paste the job description from a job post into the provided "Job Description" area
 
 Step 2: Copy and paste your resume into the provided "Resume" area
