@@ -1,8 +1,8 @@
 # CoverLetterCreator
 
-![Screenshot](./Screenshot.png)
-
 ## Try it out: https://coverlettercreator-hfoaxkajufwb3kvtjs5m6p.streamlit.app/
+
+![Screenshot](./Screenshot.png)
 
 ### AI-powered CoverLetterCreator: Your personalized tool for effortlessly crafting tailored cover letters, optimizing your job application success.
 
