@@ -35,7 +35,7 @@ def main():
 
             if jobPost and resume:
                 with st.spinner("Thinking..."):
-                    llm = ChatOpenAI(temperature=0.4) #run the LLM slightly chilled to prevent hallucinations
+                    llm = ChatOpenAI(temperature=0.3) #run the LLM slightly chilled to prevent hallucinations
                     messages = [
                         SystemMessage(content="Provided are a job description and a resume. Assume you are the candidate described in the resume. Write a cover letter for the position described in the job post. Try to line up the requirements in the job post with experience from the resume, and emphasize leadership capabilities."),
                         SystemMessage(content="Make sure your response is in markdown format."),
