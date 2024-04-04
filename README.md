@@ -21,3 +21,5 @@ Step 4: Copy and paste the text of the cover letter into your favorite editor, c
 Step 5: Submit your custom cover letter along with your resume!
 
 Step 6: Wait for a callback. YMMV!!!
+
+Technology stack: Python, LangChain, StreamLit, LLM, OpenAI
