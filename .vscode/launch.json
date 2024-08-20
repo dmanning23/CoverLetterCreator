@@ -6,10 +6,13 @@
     "configurations": [
         {
             "name": "streamlit debug",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "module": "streamlit",
-            "args": ["run", "app.py"],
+            "args": [
+                "run",
+                "app.py"
+            ],
             "justMyCode": true,
         }
     ]
